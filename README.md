@@ -1,1 +1,1 @@
-This is my first HTML and CSS page.
+This is my first page using HTML and CSS.
